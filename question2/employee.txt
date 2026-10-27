@@ -1,0 +1,4 @@
+101,Rahul,Python developer,50000.0
+102,Anjali,Tester,45000.0
+103,John,Developer,60000.0
+104,Priya,Tester,48000.0
